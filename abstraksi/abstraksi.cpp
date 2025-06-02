@@ -9,6 +9,10 @@ class AbstraksiKlas {
 
         // method untuk megisi nilai
         // private member 
+        void setXY(string a, string b) {
+            x = a;
+            y = b;
+        }
         
 };
 
